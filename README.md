@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Lucas Alves from Brazil. I am passionate about technology and the power it has to change the world. Currently, I work as a systems analyst and develop using the [VTEX](https://github.com/vtex) platform. I also like Flutter a lot and I have some articles published on Medium, click [here](https://medium.com/@lucalves) to see.
+My name is Lucas Alves from Brazil. I am passionate about technology and the power it has to change the world. 
+
+Currently, I work as a systems analyst and develop using the [VTEX](https://github.com/vtex) platform. I also like Flutter a lot and I have some articles published on Medium, click [here](https://medium.com/@lucalves) to see.
 
 Would you like to find me?
 
