@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😉
 
 My name is Lucas Alves from Brazil. I am passionate about technology and the power it has to change the world. 
 
