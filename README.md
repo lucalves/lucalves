@@ -6,7 +6,7 @@ I work as a front-end developer currently working with e-commerce development. H
 
 Currently working with:
 
-- [VTEX](https://github.com/vtex) Platform
+- VTEX Platform
 - HTML5
 - CSS3
 - Javascript
