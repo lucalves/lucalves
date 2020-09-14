@@ -13,7 +13,7 @@ Currently working with:
 - GraphQL
 - React
 
-I also like Flutter a lot and I have some articles published on Medium, click [here](https://medium.com/@lucalves) to see.
+I also like Flutter a lot and I have some articles about technology published on Medium, click [here](https://medium.com/@lucalves) to see.
 
 Would you like to find me?
 
