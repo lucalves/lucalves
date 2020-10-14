@@ -1,6 +1,5 @@
 # Lucas Alves
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucalves11)](https://twitter.com/lucalves11)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![GitLab Badge](https://img.shields.io/badge/-%20Gitlab-black?style=flat-square&logo=Gitlab)](https://gitlab.com/lucalves)
 
