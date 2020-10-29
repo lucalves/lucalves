@@ -1,5 +1,6 @@
 # Lucas Alves
 
+![Profile Views](https://komarev.com/ghpvc/?username=lucalves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![GitLab Badge](https://img.shields.io/badge/-%20Gitlab-black?style=flat-square&logo=Gitlab)](https://gitlab.com/lucalves)
 
