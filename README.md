@@ -10,6 +10,10 @@ Hello, my name is Lucas and I from Brazil :brazil:. I have a degree in systems a
 
 I work as a front-end developer currently working with e-commerce development. However, always open to new learning opportunities.
 
+Most used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucalves&layout=compact)](https://github.com/lucalves/github-readme-stats)
+
 Currently working with:
 
 - VTEX Platform
@@ -18,5 +22,6 @@ Currently working with:
 - Javascript
 - GraphQL
 - React
+
 
 I also like Flutter a lot and I have some articles about technology published on Medium, click [here](https://medium.com/@lucalves) to see.
