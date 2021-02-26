@@ -10,6 +10,4 @@ Hello, my name is Lucas and I from Brazil (:brazil:). I have a degree in systems
 
 I work as a front-end developer currently working with HTML5, CSS3, JS, React, React Native, GraphQL and studying others like React Native. However, always open to new learning opportunities.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucalves&layout=compact&theme=dark)](https://github.com/lucalves/github-readme-stats)
-
 I also like Flutter a lot and I have some articles about technology published on Medium, click [here](https://medium.com/@lucalves) to see the posts.
