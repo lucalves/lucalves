@@ -14,6 +14,6 @@
 
 🌱 I am currently learning GraphQL, Docker and Vue.js.
 
-📫 If you want to contact me, write me at: lcsjalves@gmail.com
+📫 If you want to contact me, write me at: lcsjalves@gmail.com.
 
 📝 I have some articles about tech published on Medium, click [here](https://medium.com/@lucalves) to see.
