@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![GitLab Badge](https://img.shields.io/badge/-%20Gitlab-black?style=flat-square&logo=Gitlab)](https://gitlab.com/lucalves)
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucalves&show_icons=true&theme=dark)](https://github.com/lucalves/github-readme-stats)
-
 I am a Software Engineer, graduated from Estácio University (AL) and currently live in Brazil. I am a passionate student who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
 
 I also usually learn and guide people who are just starting out in the programming world. I am currently working for web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
