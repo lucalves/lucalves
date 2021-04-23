@@ -1,19 +1,23 @@
-# Lucas Alves
+# Hi, I'm <a href="http://lucalves.me/">Lucas</a>! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucalves&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![GitLab Badge](https://img.shields.io/badge/-%20Gitlab-black?style=flat-square&logo=Gitlab)](https://gitlab.com/lucalves)
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucalves&show_icons=true&theme=dark)](https://github.com/lucalves/github-readme-stats)
+I am a Software Engineer, graduated from Estácio University (AL) and currently live in Brazil. I am a passionate student who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
 
-👋 Hello, my name is Lucas and I from Brazil (:brazil:).
+I also usually learn and guide people who are just starting out in the programming world. I am currently working for web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
 
-📚 I am a Software Engineer and I am passionate about technology and the power it has to change the world. 
+### About personal stuffs:
 
-👨‍💻 Currently, I work as a front-end and mobile developer. With HTML5, CSS, React and React Native technologies.
+- 🛠 I’m currently working with Typescript, React, React Native, Firebase and Javascript.
+- 🚀 I’m currently learning Full Stack Development.
+- 🌱 I'm currently learning GraphQL, NextJS and Vue.js.
+- 📝 I have some articles published on [Medium](https://medium.com/@lucalves).
+- 📫 You can reach me at my [e-mail](mailto:lcsjalves@gmail.com).
 
-🌱 I am currently learning GraphQL, Docker and Vue.js.
+### Fun facts about me:
 
-📫 If you want to contact me, write me at: lcsjalves@gmail.com.
-
-📝 I have some articles about tech published on Medium, click [here](https://medium.com/@lucalves) to see.
+- 💻 I like to read the news about design. 
+- 📺 I really like the big bang theory series.
+- ⚡ I play drums in my spare time.
