@@ -11,7 +11,7 @@ I also usually learn and guide people who are just starting out in the programmi
 ### About personal stuffs:
 
 - 🛠 I’m currently working with Typescript, React, React Native, Firebase and Javascript.
-- 🚀 I’m currently learning Full Stack Development.
+- 🚀 I’m currently studying about Full Stack Development.
 - 🌱 I'm currently learning GraphQL and NextJS.
 - 📝 I have some articles published on [Medium](https://medium.com/@lucalves).
 - 📫 You can reach me at my [e-mail](mailto:lcsjalves@gmail.com).
