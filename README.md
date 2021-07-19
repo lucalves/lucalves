@@ -8,7 +8,7 @@ I am a Software Engineer, graduated from Estácio University (AL) and currently 
 
 I also usually learn and guide people who are just starting out in the programming world. I am currently working for web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
 
-### About personal stuffs:
+### Some personal things about me:
 
 - 🛠 I’m currently working with Typescript, React, React Native, Firebase and Javascript.
 - 🚀 I’m currently studying about Full Stack Development.
