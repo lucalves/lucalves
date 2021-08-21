@@ -12,7 +12,7 @@ I also usually learn and guide people who are just starting out in the programmi
 
 - 🛠 I’m currently working with Typescript, React, React Native, Firebase and Javascript.
 - 🚀 I’m currently studying about Full Stack Development.
-- 🌱 I'm currently learning NextJS.
+- 🌱 I'm currently learning Swift.
 - 📝 I have some articles published on [Medium](https://medium.com/@lucalves).
 - 📫 You can reach me at my [e-mail](mailto:lcsjalves@gmail.com).
 
