@@ -13,7 +13,7 @@ I also usually learn and guide people who are just starting out in the programmi
 - 🚀 I’m currently studying about Full Stack Development.
 - 🛠 I’m currently working with React, React Native, Firebase and Javascript.
 - ✍️ I usually contribute to the [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) and [github/docs](https://github.com/github/docs) repositories.
-- 📝 I have some articles published on [Medium](https://medium.com/@lucalves).
+- 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
 - 📫 You can reach me at my [e-mail](mailto:lcsjalves@gmail.com).
 
 ### Fun facts about me:
