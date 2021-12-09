@@ -21,3 +21,5 @@ I also usually learn and guide people who are just starting out in the programmi
 - 🎨 I like to read the news about design. 
 - 📺 I really like the big bang theory series.
 - 🥁 I play drums in my spare time.
+
+<p align="center">Last update: <strong>Thursday</strong>, December 9th 2021, 14:26:10 pm UTC.</p>
