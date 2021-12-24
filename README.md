@@ -22,4 +22,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📺 I really like the big bang theory series.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Thursday</strong>, December 9th 2021, 14:26:10 pm UTC.</p>
+<p align="center">Last update: <strong>Thursday</strong>, December 23th 2021, 23:43:10 pm UTC.</p>
