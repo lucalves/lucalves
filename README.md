@@ -19,7 +19,7 @@ I also usually learn and guide people who are just starting out in the programmi
 ### Fun facts about me:
 
 - 🎨 I like to study and use good design practices.
-- 📺 I really like the big bang theory series.
+- 📺 I really like the big bang theory tv serie.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Thursday</strong>, December 23th 2021, 23:43:10 pm UTC.</p>
+<p align="center">Last update: <strong>Monday</strong>, January 03th 2021, 14:49:15 pm UTC.</p>
