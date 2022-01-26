@@ -10,7 +10,7 @@ I also usually learn and guide people who are just starting out in the programmi
 
 ### Some personal things about me:
 
-- 🌱 I’m currently studying about flutter and python.
+- 🌱 I’m currently studying about Flutter and Swift.
 - 🛠 I’m currently working with react, react native, firebase and javascript.
 - ✍️ I usually contribute to the [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) and [github/docs](https://github.com/github/docs) repositories.
 - 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
@@ -22,4 +22,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📺 I really like the big bang theory and two and a half men tv series.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Saturday</strong>, January 08th 2021, 17:35:40 pm UTC.</p>
+<p align="center">Last update: <strong>Wednesday</strong>, January 26th 2022, 16:33:30 pm UTC.</p>
