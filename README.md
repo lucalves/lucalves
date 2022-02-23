@@ -2,7 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucalves&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://lucalves.medium.com/)](https://lucalves.medium.com/)
 [![GitLab Badge](https://img.shields.io/badge/-%20Gitlab-black?style=flat-square&logo=Gitlab)](https://gitlab.com/lucalves)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucalves)
 
 I am a Software Engineer, graduated from Estácio University (AL) and currently live in Brazil. I am a passionate student who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
 
@@ -22,4 +25,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📺 I really like the big bang theory and two and a half men tv series.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Wednesday</strong>, January 26th 2022, 16:33:30 pm UTC.</p>
+<p align="center">Last update: <strong>Wednesday</strong>, February 23th 2022, 00:31:30 pm UTC.</p>
