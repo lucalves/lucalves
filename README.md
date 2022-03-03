@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lucalves&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://lucalves.medium.com/)](https://lucalves.medium.com/)
-[![GitLab Badge](https://img.shields.io/badge/-%20Gitlab-black?style=flat-square&logo=Gitlab)](https://gitlab.com/lucalves)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-8A43F2?style=flat-square&labelColor=white&logo=Twitch&link=https://twitch.tv/lucalves/)](https://twitch.tv/lucalves)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucalves)
 
