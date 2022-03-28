@@ -5,8 +5,6 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://lucalves.medium.com/)](https://lucalves.medium.com/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-8A43F2?style=flat-square&labelColor=white&logo=Twitch&link=https://twitch.tv/lucalves/)](https://twitch.tv/lucalves)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucalves)
-
 I am a Software Engineer, graduated from Estácio University (AL) and currently live in Brazil. I am a passionate student who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
 
 I also usually learn and guide people who are just starting out in the programming world. I am currently working for web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
