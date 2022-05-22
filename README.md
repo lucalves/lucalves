@@ -23,4 +23,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📺 I really like the big bang theory and two and a half men tv series.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Wednesday</strong>, March 18th 2022, 17:38:22 pm UTC.</p>
+<p align="center">Last update: <strong>Sunday</strong>, May 22th 2022, 20:09:22 pm UTC.</p>
