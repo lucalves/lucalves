@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://lucalves.medium.com/)](https://lucalves.medium.com/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-8A43F2?style=flat-square&labelColor=white&logo=Twitch&link=https://twitch.tv/lucalves/)](https://twitch.tv/lucalves)
+[![GitLab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=Gitlab&logoColor=white&link=https://www.gitlab.com/lucalves/)](https://www.gitlab.com/lucalves)
 
 I am a Software Engineer, graduated from Estácio University (AL) and currently live in Brazil. I am a passionate student who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
 
