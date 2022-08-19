@@ -1,4 +1,4 @@
-# Hi, I'm <a href="http://lucalves.me/">Lucas</a>! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35px">
+# Hi, I'm <a href="http://lucalves.github.io/">Lucas</a>! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://lucalves.medium.com/)](https://lucalves.medium.com/)
@@ -23,4 +23,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📺 I really like the big bang theory and two and a half men tv series.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Tuesday</strong>, Jul 19th 2022, 20:50:22 pm UTC.</p>
+<p align="center">Last update: <strong>Tuesday</strong>, Aug 19th 2022, 14:37:22 pm UTC.</p>
