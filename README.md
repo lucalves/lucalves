@@ -11,7 +11,7 @@ I also usually learn and guide people who are just starting out in the programmi
 
 ### Some personal things about me:
 
-- 🌱 I’m currently studying about Typescript.
+- 🌱 I’m currently studying about Typescript and AWS.
 - 🛠 I’m currently working with React, React Native, Firebase and Javascript.
 - ✍️ I usually contribute to the [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) and [github/docs](https://github.com/github/docs) repositories.
 - 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
@@ -23,4 +23,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📺 I really like the big bang theory and two and a half men tv series.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Tuesday</strong>, Aug 19th 2022, 14:37:22 pm UTC.</p>
+<p align="center">Last update: <strong>Thursday</strong>, Dec 08th 2022, 23:19:22 pm UTC.</p>
