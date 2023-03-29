@@ -13,7 +13,7 @@ I also usually learn and guide people who are just starting out in the programmi
 
 - 🌱 I’m currently studying about Swift 🐦.
 - 🛠 I’m currently working with React, React Native, Firebase and Javascript.
-- ✍️ I usually contribute to the [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) and [github/docs](https://github.com/github/docs) repositories.
+- ✍️ I usually contribute to the [MDN Web Docs](https://github.com/mdn/) and [Github](https://github.com/github/) organizations and several other open source solutions.
 - 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
 - 📫 You can reach me at my [e-mail](mailto:lcsjalves@gmail.com).
 
@@ -23,4 +23,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📺 I really like the big bang theory and two and a half men tv series.
 - 🥁 I play drums in my spare time.
 
-<p align="center">Last update: <strong>Wednesday</strong>, Jan 11th 2022, 22:41:55 pm UTC.</p>
+<p align="center">Last update: <strong>Wednesday</strong>, Mar 29th 2022, 17:04:34 am UTC.</p>
