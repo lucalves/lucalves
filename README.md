@@ -6,9 +6,9 @@
 
 ## About me
 
-I am a Software Engineer, graduated from Estácio University (AL) and currently live in Brazil. I am a passionate student who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
+I am a Software Engineer, graduated from Estácio University (AL) and currently live in Brazil. I am a passionate student who is always willing to learn and to work through the use of technology. I really love the power that technology has in solving real-life problems. 
 
-I also usually learn and guide people who are just starting out in the programming world. I am currently working for web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
+I also usually learn and guide people who are just starting out in the programming world. I am currently working on web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
 
 ## Some personal things about me
 
@@ -21,11 +21,15 @@ I also usually learn and guide people who are just starting out in the programmi
 ## Fun facts about me
 
 - 🎨 I like to study and use good design practices.
-- 📺 I really like The Big Bang Theory and Two and a Half Men tv series.
+- 📺 I really like The Big Bang Theory and Two and a Half Men TV series.
 - 🥁 I play drums in my spare time.
 
 ## Last written posts
 
-- [15 Useful Libraries for Flutter Development Productivity](https://medium.com/flutter-community/15-useful-libraries-for-flutter-development-productivity-updated-2021-15bcafe205f3)
+- 🇺🇸 [15 Useful Libraries for Flutter Development Productivity](https://medium.com/flutter-community/15-useful-libraries-for-flutter-development-productivity-updated-2021-15bcafe205f3)
+- 🇺🇸 [12 Useful libraries to support development using flutter](https://medium.com/flutter-community/12-useful-libraries-to-support-development-using-flutter-3b8df97d898)
+- 🇧🇷 [Criando uma SplashScreen utilizando Flutter](https://medium.com/flutter-comunidade-br/criando-uma-splashscreen-utilizando-flutter-926f9b25de31)
+- 🇧🇷 [10 Dicas de Produtividade no Flutter utilizando Android Studio
+](https://medium.com/@lucalves/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92)
 
-<p>Last update: <strong>Friday</strong>, Jul 14th 2023, 02:21:50 am UTC.</p>
+<p>Last update: <strong>Saturday</strong>, Oct 07th 2023, 01:08:50 am UTC.</p>
