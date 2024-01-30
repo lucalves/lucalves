@@ -11,7 +11,7 @@ I am a Software Engineer, graduated from Estácio University (AL), and currently
 
 I also usually learn and guide people who are just starting out in the programming world. I am currently working on web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
 
-## Some personal things about me
+## Personal things
 
 - 🌱 I’m currently studying Swift.
 - 🛠 I’m currently working with React, React Native, Firebase, and Javascript.
@@ -19,7 +19,7 @@ I also usually learn and guide people who are just starting out in the programmi
 - 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
 - 📫 You can reach me at my [e-mail](mailto:lcsjalves@gmail.com).
 
-## Fun facts about me
+## Fun facts
 
 - 🎨 I like to study and use good design practices.
 - 📺 I really like The Big Bang Theory and Two and a Half Men TV series.
@@ -33,4 +33,4 @@ I also usually learn and guide people who are just starting out in the programmi
 - 🇧🇷 [10 Dicas de Produtividade no Flutter utilizando Android Studio
 ](https://medium.com/@lucalves/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92)
 
-<p>Last update: <strong>Tuesday</strong>, Jan 02th 2024, 01:25:42 am UTC.</p>
+<p>Last update: <strong>Tuesday</strong>, Jan 30th 2024, 18:12:42 pm UTC.</p>
