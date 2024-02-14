@@ -1,4 +1,4 @@
-# Hi, I'm <a href="http://lucalves.github.io/">Lucas</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucalves/)](https://www.linkedin.com/in/lucalves/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-8A43F2?style=flat-square&labelColor=white&logo=Twitch&link=https://twitch.tv/lucalves/)](https://twitch.tv/lucalves)
