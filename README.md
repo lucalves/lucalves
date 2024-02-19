@@ -13,7 +13,7 @@ I also usually learn and guide people who are just starting out in the programmi
 
 ## Personal things
 
-- 🌱 I’m currently studying Swift.
+- 🌱 I’m currently studying Swift and TypeScript.
 - 🛠 I’m currently working with React, React Native, Firebase, and Javascript.
 - ✍️ I usually contribute to the [MDN Web Docs](https://github.com/mdn/) and [Github](https://github.com/github/) organizations and several other open source solutions.
 - 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
