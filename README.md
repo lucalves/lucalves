@@ -19,11 +19,6 @@ I am a Software Engineer and currently live in Brazil. I love the power that tec
 - ⭐️ To develop software that makes a difference.
 - 🌐 To connect and collaborate with fellow developers and tech enthusiasts.
 
-## Fun facts
-
-- 📺 My favorite TV series is The Big Bang Theory.
-- 🥁 I play drums in my spare time.
-
 ## Last written posts
 
 - 🇺🇸 [15 Useful Libraries for Flutter Development Productivity](https://medium.com/flutter-community/15-useful-libraries-for-flutter-development-productivity-updated-2021-15bcafe205f3)
@@ -32,4 +27,4 @@ I am a Software Engineer and currently live in Brazil. I love the power that tec
 - 🇧🇷 [10 Dicas de Produtividade no Flutter utilizando Android Studio
 ](https://medium.com/@lucalves/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92)
 
-<p>Last update: <strong>Wednesday</strong>, Feb 21th 2024, 02:36:22 pm UTC.</p>
+<p>Last update: <strong>Wednesday</strong>, Feb 21th 2024, 02:38:22 pm UTC.</p>
