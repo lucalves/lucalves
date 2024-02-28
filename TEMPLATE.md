@@ -1,4 +1,4 @@
-# NOME_DO_PROJETO
+# nome_do_projeto
 
 > Breve descrição com a ideia de criação desse projeto.
 
@@ -48,4 +48,4 @@ code .
 
 > Insira o tipo de licença do projeto, se houver.
 
-MIT (exemplo)
+MIT. (exemplo)
