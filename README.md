@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a Software Engineer and currently live in Brazil. I love the power that technology has in solving real-life problems. I am currently working on web and mobile development and I'm passionate about open source and versioning.
+I am a Software Engineer and currently live in Brazil. I love the power that technology has in solving real-life problems. I am currently working on web and mobile development and I'm passionate about open source world.
 
 ## Personal things
 
