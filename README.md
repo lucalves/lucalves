@@ -18,6 +18,7 @@ I am a Software Engineer and currently live in Brazil. I love the power that tec
 
 - ⭐️ To develop software that makes a difference.
 - 🌐 To connect and collaborate with fellow developers and tech enthusiasts.
+- 🚀 Learning and teaching many people to create software that changes people's lives.
 
 ## Last written posts
 
