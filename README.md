@@ -16,7 +16,7 @@ I am a Software Engineer and currently live in Brazil. I love the power that tec
 
 ## Goals
 
-- ⭐️ To develop applications and systems that makes a difference.
+- ⭐️ To develop applications and systems that make a difference.
 - 🌐 To connect and collaborate with fellow developers and tech enthusiasts.
 - 🚀 Learning and teaching many people to create software that changes people's lives.
 
