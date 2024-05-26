@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a Software Engineer and currently live in Brazil. I love the power that technology has in solving real-life problems. I am currently working on web and mobile development and I'm passionate about open source world.
+I am a Software Engineer and currently live in Brazil. I love the power that technology has in solving real-life problems. I am currently working on web and mobile development.
 
 ## Personal things
 
@@ -28,4 +28,4 @@ I am a Software Engineer and currently live in Brazil. I love the power that tec
 - 🇧🇷 [10 Dicas de Produtividade no Flutter utilizando Android Studio
 ](https://medium.com/@lucalves/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92)
 
-<p>Last update: <strong>Wednesday</strong>, Feb 21th 2024, 02:38:22 pm UTC.</p>
+<p>Last update: <strong>Sunday</strong>, May 26th 2024, 20:46:22 pm UTC.</p>
