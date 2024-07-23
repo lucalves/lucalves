@@ -12,7 +12,7 @@ I am a Software Engineer living in Brazil, working at Randstad Brasil. I love th
 
 - 🌱 I’m currently studying Swift and TypeScript.
 - 🛠 I’m working with React, React Native and Javascript.
-- 📝 I have some articles published on [this repo](https://github.com/lucalves/articles).
+- 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
 
 ## Goals
 
