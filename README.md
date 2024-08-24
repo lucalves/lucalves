@@ -6,9 +6,7 @@
 
 ## About me
 
-I am a Software Engineer living in Brazil, working at Randstad Brasil. 
-
-I love the power that technology has in solving real-life problems. I am currently working on web and mobile development.
+I am a Software Engineer based in Brazil, working at Randstad Brasil. My passion lies in harnessing the power of technology to solve real-life challenges. I specialize in web and mobile development, focusing on creating scalable, efficient, and user-centric solutions.
 
 ## Personal things
 
@@ -30,4 +28,4 @@ I love the power that technology has in solving real-life problems. I am current
 - 🇧🇷 [10 Dicas de Produtividade no Flutter utilizando Android Studio
 ](https://medium.com/@lucalves/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92)
 
-<p>Last update: <strong>Monday</strong>, Ago 05th 2024, 14:26:22 pm UTC.</p>
+<p>Last update: <strong>Saturday</strong>, Ago 24th 2024, 03:21:44 am UTC.</p>
