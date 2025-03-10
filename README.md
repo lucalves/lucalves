@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a Software Engineer based in Brazil, working at Randstad Brasil. My passion lies in harnessing the power of technology to solve real-life challenges. I specialize in web and mobile development, focusing on creating scalable, efficient, and user-centric solutions.
+I am a Software Engineer based in Brazil, working actually at Randstad Brasil. My passion lies in harnessing the power of technology to solve real-life challenges. I specialize in web and mobile development, focusing on creating scalable, efficient, and user-centric solutions.
 
 ## Personal things
 
