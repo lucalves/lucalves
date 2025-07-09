@@ -12,6 +12,7 @@ I am a Software Engineer based in Brazil, working actually at Randstad Brasil. M
 
 - 🌱 I’m currently studying Kotlin, Swift and NodeJS.
 - 🛠 I’m working with React, React Native and Typescript.
+- 🤝 I'm currently sponsoring Homebrew and Callstack.
 - 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
 
 ## Goals
