@@ -12,7 +12,7 @@ I am a Software Engineer based in Brazil, working actually at Randstad Brasil. M
 
 - 🌱 I’m currently studying Kotlin, Swift and NodeJS.
 - 🛠 I’m working with React, React Native and Typescript.
-- 🤝 I'm currently sponsoring Homebrew and Callstack.
+- 🤝 I'm currently sponsoring Homebrew.
 - 📝 I have some articles published on [this repository](https://github.com/lucalves/articles).
 
 ## Goals
@@ -29,4 +29,4 @@ I am a Software Engineer based in Brazil, working actually at Randstad Brasil. M
 - 🇧🇷 [10 Dicas de Produtividade no Flutter utilizando Android Studio
 ](https://medium.com/@lucalves/10-dicas-de-produtividade-no-flutter-utilizando-android-studio-38d2bbcc9a92)
 
-<p>Last update: <strong>Saturday</strong>, Ago 24th 2024, 03:21:44 am UTC.</p>
+<p>Last update: <strong>Sunday</strong>, Sep 21th 2025, 23:50:22 pm UTC.</p>
